@@ -4,10 +4,9 @@ Step-by-step tutorial on creating, attaching, formatting, and mounting EBS volum
 
 ## Access the walkthrough
 
-<div class="video-container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/--2ZVkishcI?si=uJVCgEhr3LdhKw3p" title="Linux EBS Volume Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+[![Linux EBS Volume Tutorial](https://img.youtube.com/vi/--2ZVkishcI/hqdefault.jpg)](https://www.youtube.com/embed/--2ZVkishcI?si=uJVCgEhr3LdhKw3p)
 
+[Watch the YouTube Video](https://www.youtube.com/embed/--2ZVkishcI?si=uJVCgEhr3LdhKw3p)
 ---
 
 ## 🛠 Step-by-Step Strategy
